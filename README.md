@@ -1,3 +1,3 @@
 # Portfolio van Nick Lardenoije.
 
-Ga naar mijn repositories: https://github.com/NickLardenoije?tab=repositories
+View my projects: [https://github.com/NickLardenoije?tab=repositories](online).
